@@ -3,7 +3,9 @@
 **ommdoc.cls** es un archivo de clase LaTeX para estandarizar el formato de los documentos de la Olimpiada de Matemáticas en Yucatán.
 
 ------
-
+* auto-gen TOC:
+{:toc}
+    
 ## Instalación
 
 **Coloca el archivo `ommdoc.cls` y el archivo `blue.png` en el mismo directorio que el archivo .tex que se desea compilar.**
