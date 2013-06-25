@@ -173,4 +173,3 @@ Referencias
 * [A Survey of Free Math Fonts for TeX and LaTeX (html)](ftp://tug.ctan.org/pub/tex-archive/info/Free_Math_Font_Survey/survey.html)
 * [TikZ and PGF](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf) Documentación sobre el sistema de gráficos.
 * [bophook package](http://www.ctan.org/pkg/bophook) Documentación del paquete bophook para inserción de código en cada página.
-* 
