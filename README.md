@@ -171,6 +171,6 @@ Referencias
 * [memoir](http://tezcatl.fciencias.unam.mx/tex-archive/macros/latex/contrib/memoir/memman.pdf) Documentación de la clase _memoir_.
 * [Fourier-GUTenberg](http://tezcatl.fciencias.unam.mx/tex-archive/fonts/fourier-GUT/doc/latex/fourier/fourier-doc-en.pdf). Documentación del paquete Fourier.
 * [A Survey of Free Math Fonts for TeX and LaTeX (pdf)](http://tug.org/pracjourn/2006-1/hartke/hartke.pdf) Información sobre los paquetes relacionados con las fuentes tipográficas.
-* [A Survey of Free Math Fonts for TeX and LaTeX (html)](ftp://tug.ctan.org/pub/tex-archive/info/Free_Math_Font_Survey/survey.html)
+* [A Survey of Free Math Fonts for TeX and LaTeX (html)](http://tug.ctan.org/pub/tex-archive/info/Free_Math_Font_Survey/survey.html)
 * [TikZ and PGF](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf) Documentación sobre el sistema de gráficos.
 * [bophook package](http://www.ctan.org/pkg/bophook) Documentación del paquete bophook para inserción de código en cada página.
