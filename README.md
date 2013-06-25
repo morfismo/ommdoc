@@ -132,3 +132,20 @@ En caso de que aparezcan símbolos raros al compilar, eso quiere decir que la co
 
 El uso de editores obsoletos hace llorar al niño Jesús, por favor no hagas llorar al niño Jesús e instala
 un editor preparado para el uso moderno de LaTeX. [(hint!)](http://www.texniccenter.org/resources/downloads/29)
+
+
+Tipografía 
+------
+
+La tipografía base de la clase es _Adobe Utopia_. 
+
+Esto se logra mediante la carga interna del paquete `fourier`  ( (CTAN) )[http://www.ctan.org/pkg/fourier] 
+que añade además varias mejoras tipográficas descritas en la 
+(documentación del paquete)[http://tezcatl.fciencias.unam.mx/tex-archive/fonts/fourier-GUT/doc/latex/fourier/fourier-doc-en.pdf].
+
+En el futuro se añadirá una opción que controle la tipografía base (utopia/palatino/charter/computer modern) 
+pero dicha funcionalidad aún no está disponible.
+
+
+(instala el paquete `fourier` en caso de que no la tengas disponible).
+
