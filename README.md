@@ -79,8 +79,9 @@ Al omitir `onecolumn` se prepara el material a doble columna.
 Comandos definidos 
 -------
 
-> * **Entornos de teorema**
-La clase define los entornos **definicion**, **teorema** 
+* **Entornos de teorema**
+
+La clase define los entornos **definicion**, **teorema** y **teorema*** (teorema sin numeración)
 
     \begin{teorema}[Wilson] 
     El número $p$ es primo si y sólo si $(p-1)!\equiv -1 \pmod{p}$.
