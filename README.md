@@ -131,9 +131,10 @@ Observa que en los ejemplos anteriores no fue necesario usar comandos para las l
 Esto se debe a que la clase asume que la codificación del texto en el editor es Unicode (UTF-8).
 Cualquier editor moderno que se precie de serlo permite el uso de esta codificación. 
 
-En caso de que aparezcan símbolos raros al compilar, eso quiere decir que la codificación es ISO8859-1 (latin1).
+En caso de que aparezcan símbolos raros al compilar, eso quiere decir que la codificación es ISO8859-1 (latin1). 
+Esto suele suceder con editores obsoletos.
 
-El uso de editores obsoletos hace llorar al niño Jesús, por favor no hagas llorar al niño Jesús e instala
+El uso de editores obsoletos hace llorar al niño Jesús. Por favor no hagas llorar al niño Jesús. Instala
 un editor preparado para el uso moderno de LaTeX. [(hint!)](http://www.texniccenter.org/resources/downloads/29)
 
 
@@ -170,7 +171,5 @@ Referencias
 * [memoir](http://tezcatl.fciencias.unam.mx/tex-archive/macros/latex/contrib/memoir/memman.pdf) Documentación de la clase _memoir_.
 * [Fourier-GUTenberg](http://tezcatl.fciencias.unam.mx/tex-archive/fonts/fourier-GUT/doc/latex/fourier/fourier-doc-en.pdf). Documentación del paquete Fourier.
 * [A Survey of Free Math Fonts for TeX and LaTeX (pdf)](http://tug.org/pracjourn/2006-1/hartke/hartke.pdf) Información sobre los paquetes relacionados con las fuentes tipográficas.
-* [A Survey of Free Math Fonts for TeX and LaTeX (html)](ftp://tug.ctan.org/pub/tex-archive/info/Free_Math_Font_Survey/survey.html)
 * [TikZ and PGF](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf) Documentación sobre el sistema de gráficos.
 * [bophook package](http://www.ctan.org/pkg/bophook) Documentación del paquete bophook para inserción de código en cada página.
-* 
