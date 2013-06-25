@@ -149,6 +149,12 @@ pero dicha funcionalidad aún no está disponible.
 
 (instala el paquete `fourier` en caso de que no la tengas disponible).
 
+Pendientes
+-------
+* Elaborar código para selección de fuente tipográfica.
+* Crear archivos LaTeX para ilustrar los diferentes tipos de uso.  
+
+
 
 Agradecimientos
 ------
