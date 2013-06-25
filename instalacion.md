@@ -34,6 +34,7 @@ Se indica el nombre del paquete deeseado y luego se presiona _Filtrar_ para loca
 En Linux se puede usar `apt` para instalar el paquete deseado. Por ejemplo, para instalar `memoir`, la clase de la que se deriva ommdoc, usamos el comando
 
 **apt-get install texlive-recommended **
+
 ![](http://i.imgur.com/ymNhPvM.png)
 
 o, para instalar las fuentes de letras, usamos 
