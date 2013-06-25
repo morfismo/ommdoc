@@ -88,7 +88,7 @@ La clase define los entornos **definicion**, **teorema** y **teorema*** (teorema
     \end{teorema}
   
 
-* Comando `\problema`.
+* **Comando `\problema`.**
 
 Dada su frecuencia, se trata el caso de "problemas" de manera diferente para facilitar su uso. 
 
@@ -103,7 +103,9 @@ El comando `\problema` se usa para insertar numeración de problemas de forma au
 Resulta en:
 
 > **Problema 1.** ¿Cuántos cuadrados se forman en una cuadrícula de _n×n_?
+
 > **Problema 2.** ¿Cuántos rectángulos se forman en una cuadrícula de _n×n_?
+
 > **Problema 2.** El ángulo interior de un polígono regular es una cantidad entera de grados. ¿Cuántos lados puede tener?
 
 
