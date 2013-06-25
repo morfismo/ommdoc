@@ -24,7 +24,8 @@ Uso
 ------
 
 Para hacer uso de esta clase, se debe iniciar el archivo `.tex` con la siguiente declaración:
-  \documentclass[onecolumn]{ommdoc}
+
+    \documentclass[onecolumn]{ommdoc}
   
 Si se omite `[onecolumn]`  o si se indica explícitamente `[twocolumn]` el resultado será un documento a doble columna.
 
