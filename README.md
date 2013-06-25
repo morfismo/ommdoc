@@ -134,7 +134,7 @@ Cualquier editor moderno que se precie de serlo permite el uso de esta codificac
 En caso de que aparezcan símbolos raros al compilar, eso quiere decir que la codificación es ISO8859-1 (latin1). 
 Esto suele suceder con editores obsoletos.
 
-El uso de editores obsoletos hace llorar al niño Jesús, por favor no hagas llorar al niño Jesús e instala
+El uso de editores obsoletos hace llorar al niño Jesús. Por favor no hagas llorar al niño Jesús. Instala
 un editor preparado para el uso moderno de LaTeX. [(hint!)](http://www.texniccenter.org/resources/downloads/29)
 
 
