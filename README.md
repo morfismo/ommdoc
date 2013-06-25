@@ -137,7 +137,7 @@ un editor preparado para el uso moderno de LaTeX. [(hint!)](http://www.texniccen
 Tipografía 
 ------
 
-La tipografía base de la clase es _Adobe Utopia_. 
+La tipografía base de la clase es _Adobe Utopia_. [(imagen)](http://upload.wikimedia.org/wikipedia/en/5/58/Utopia_Specimen.png)
 
 Esto se logra mediante la carga interna del paquete `fourier` [CTAN](http://www.ctan.org/pkg/fourier)
 que añade además varias mejoras tipográficas descritas en la 
@@ -149,3 +149,19 @@ pero dicha funcionalidad aún no está disponible.
 
 (instala el paquete `fourier` en caso de que no la tengas disponible).
 
+
+Agradecimientos
+------
+
+* A Darío Loeza, por el diseño de la imagen del formato.
+
+Referencias 
+------
+
+* [memoir](http://tezcatl.fciencias.unam.mx/tex-archive/macros/latex/contrib/memoir/memman.pdf) Documentación de la clase _memoir_.
+* [Fourier-GUTenberg](http://tezcatl.fciencias.unam.mx/tex-archive/fonts/fourier-GUT/doc/latex/fourier/fourier-doc-en.pdf). Documentación del paquete Fourier.
+* [A Survey of Free Math Fonts for TeX and LaTeX (pdf)](http://tug.org/pracjourn/2006-1/hartke/hartke.pdf) Información sobre los paquetes relacionados con las fuentes tipográficas.
+* [A Survey of Free Math Fonts for TeX and LaTeX (html)](ftp://tug.ctan.org/pub/tex-archive/info/Free_Math_Font_Survey/survey.html)
+* [TikZ and PGF](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf) Documentación sobre el sistema de gráficos.
+* [bophook package](http://www.ctan.org/pkg/bophook) Documentación del paquete bophook para inserción de código en cada página.
+* 
