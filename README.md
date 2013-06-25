@@ -106,7 +106,17 @@ Resulta en:
 
 > **Problema 2.** ¿Cuántos rectángulos se forman en una cuadrícula de _n×n_?
 
-> **Problema 2.** El ángulo interior de un polígono regular es una cantidad entera de grados. ¿Cuántos lados puede tener?
+> **Problema 3.** El ángulo interior de un polígono regular es una cantidad entera de grados. ¿Cuántos lados puede tener?
+
+
+_Pero, pero, pero, ¡¡yo indico directamente el número de problema en el texto!!_
+
+Sí, pero el uso de este comando te permite reordenar los problemas o copiar 
+problemas entre archivos sin tener que estar renumerando los problemas para que queden en el orden correcto.
+
+Imagina que tienes ya un archivo con 30 problemas y quieres añadir un problema al inicio. 
+
+¡No tienes que corregir manualmente la numeración de 30 problemas!
 
 
 Codificación del texto
