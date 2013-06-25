@@ -46,7 +46,6 @@ Existen diferentes parámetros que se pueden indicar al cargar la clase para con
 > Los valores son: 
 > **blue** para material de entrenamiento
 > **green** para exámenes.
-
 > En caso de querer compilar con la opción `fondo=green` es necesario que 
 > el archivo  `green.png` [(descarga)](https://github.com/proposicion47/ommdoc) se encuentre en el directorio del documento.  
 
