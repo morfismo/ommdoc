@@ -7,13 +7,16 @@ ommdoc
 Instalación 
 ------
 
-** Versión breve **:
+**Versión breve:**
+
 Coloca los archivos  `ommdoc.cls`  y `blue.png` en el mismo directorio que el documento `.tex` que deseas compilar.
 
 Es muy probable que inicialmente, no tengas todos los paquetes LaTeX que se requieren. 
 En Windows, en esta situación, MiKTeX te solicitará permiso para instalarlo automáticamente.  
 Tomará varios minutos (durante los cuales la compilación parecerá haberse detenido) pero cuando se intente compilar
 las demás veces, será mucho más rápido.
+
+Para más detalles sobre la instalación de la clase y paquetes auxiliares, [consultar el documento correspondiente](https://github.com/proposicion47/ommdoc/blob/master/instalacion.md)
 
 Uso 
 ------
