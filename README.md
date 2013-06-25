@@ -88,4 +88,35 @@ La clase define los entornos **definicion**, **teorema** y **teorema*** (teorema
     \end{teorema}
   
 
+* Comando `\problema`.
 
+Dada su frecuencia, se trata el caso de "problemas" de manera diferente para facilitar su uso. 
+
+El comando `\problema` se usa para insertar numeración de problemas de forma automática.
+
+    \problema ¿Cuántos cuadrados se forman en una cuadrícula de $n\times n$?
+
+    \problema ¿Cuántos rectángulos se forman en una cuadrícula de $n\times n$?
+    
+    \problema El ángulo interior de un polígono regular es una cantidad entera de grados. ¿Cuántos lados puede tener?
+    
+Resulta en:
+
+> **Problema 1.** ¿Cuántos cuadrados se forman en una cuadrícula de _n×n_?
+> **Problema 2.** ¿Cuántos rectángulos se forman en una cuadrícula de _n×n_?
+> **Problema 2.** El ángulo interior de un polígono regular es una cantidad entera de grados. ¿Cuántos lados puede tener?
+
+
+Codificación del texto
+------
+
+Observa que en los ejemplos anteriores no fue necesario usar comandos para las letras acentuadas 
+(por ejemplo, no es necesario escribir `rect\'angulo` sino que se usó directamente `rectángulo`.
+
+Esto se debe a que la clase asume que la codificación del texto en el editor es Unicode (UTF-8).
+Cualquier editor moderno que se precie de serlo permite el uso de esta codificación. 
+
+En caso de que aparezcan símbolos raros al compilar, eso quiere decir que la codificación es ISO8859-1 (latin1).
+
+El uso de editores obsoletos hace llorar al niño Jesús, por favor no hagas llorar al niño Jesús e instala
+un editor preparado para el uso moderno de LaTeX. [(hint!)](http://www.texniccenter.org/resources/downloads/29)
