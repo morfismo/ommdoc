@@ -12,9 +12,14 @@
 \DeclareOption{confondo}{\@tienefondotrue}
 \DeclareOption{fondoclaro}{\@fondoclarotrue}
 \DeclareOption{fondooscuro}{\@fondoclarofalse}
+
+\newif\if@fancyfonts
+\DeclareOption{cmfonts}{\@fancyfontsfalse}
+\DeclareOption{fancyfonts}{\@fancyfontstrue}
+
 %% Todas las opciones no definidas se pasarán a la clase memoir
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{memoir}}
-\ExecuteOptions{confondo,fondoclaro}
+\ExecuteOptions{confondo,fondoclaro,fancyfonts}
 \ProcessOptions*
 
 \LoadClass[twocolumn,final,letterpaper,article]{memoir}
@@ -74,6 +79,12 @@
 \newcommand{\problema}{\par\stepcounter{probn}\noindent\textbf{Problema
 \arabic{probn}. }}
 
+
+\if@fancyfonts
+%%%%% La tipografía por defecto es Charter
+	\RequirePackage[garamond]{mathdesign}	
+\fi
+
 %%%% Opciones sobre la imagen de fondo y tipo de letra
 %\RequirePackage{xkeyval}
 %\DeclareOptionX{fondo}[blue]{\def\@fondo{#1}}
@@ -84,8 +95,6 @@
 \RequirePackage{kvoptions}
 \DeclareStringOption[blue]{fondo}
 \ProcessKeyvalOptions*
-%%%%% La tipografía por defecto es Charter
-\RequirePackage[adobe-utopia]{mathdesign}
 
 \if@tienefondo
   \RequirePackage{bophook}
